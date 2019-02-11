@@ -1,0 +1,7 @@
+{
+    "mobileNumber": "92511830",
+    "pin": "1111_MOCK",
+    "token": "513892",
+    "errorCode": "9000",
+    "errorMessage": "Success"
+}
